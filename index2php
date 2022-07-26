@@ -1,0 +1,111 @@
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");?>
+
+    <div class="mainslider">
+        <div class="mainslider-slider">
+            <div class="mainslide">
+                <div class="mainslide-content">
+                    <div class='container'>
+                        <div class="mainslide-body">
+                            <div class="mainslide__title">Ювелирный бутик и мастерская1</div>
+                            <div class="mainslide__text">Создание украшений на заказ</div>
+                            <a href="" class="mainslide__btn btn-3">Смотреть</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="mainslide__bg ibg"><img src="<?= SITE_TEMPLATE_PATH ?>/img/mainslider/01.jpg" alt="" /></div>
+            </div>
+            <div class="mainslide">
+                <div class="mainslide-content">
+                    <div class='container'>
+                        <div class="mainslide-body">
+                            <div class="mainslide__title">Ювелирный бутик и мастерская2</div>
+                            <div class="mainslide__text">Создание украшений на заказ</div>
+                            <a href="" class="mainslide__btn btn-3">Смотреть</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="mainslide__bg ibg"><img src="<?= SITE_TEMPLATE_PATH ?>/img/mainslider/01.jpg" alt="" /></div>
+            </div>
+        </div>
+        <div class="mainslider-arrows">
+            <div class='container'></div>
+        </div>
+    </div>
+    <div class="mainline">
+        <div class='container'>
+            <div class="mainline__text">100% ЭКСКЛЮЗИВ! СОВРЕМЕННОЕ ОБОРУДОВАНИЕ И НОВЕЙШИЕ ТЕХНОЛОГИИ. СДЕЛАНО В РОССИИ</div>
+        </div>
+    </div>
+    <div class="clients">
+        <div class="clients-header">
+            <div class='container'>
+                <div class="clients__title">Наши довольные клиенты</div>
+            </div>
+        </div>
+        <div class="clients-items">
+            <div class="clients-item">
+                <div class="clients-item__bg ibg"><img src="<?= SITE_TEMPLATE_PATH ?>/img/clients/01.jpg" alt="" /></div>
+                <div class="clients-item-content">
+                    <div class="clients-item-content__title">«The blue firefly» Лунный камень в серебре</div>
+                    <div class="clients-item-content__text">
+                        <p>Получила сегодня свой кулон из лунного камня. Доставили домой курьером. Очень быстро,я даже не ожидала. До этого пришлось подождать, пока появятся такие камни и кулон будет сделан. Приглядела его в магазинчике давно, одела, как будто он у меня всегда был. Даже на ночь снимать не хочется. Камень очень красивый, переливается и голубым, и желтоватые отблески есть. Кулон сделан очень аккуратно. Захотелось теперь к нему сережечки в комплект. Огромное спасибо автору за доставленную радость.</p>
+                        <p>Зиновьева Наталья <br /> 25.06.2017</p>
+                    </div>
+                    <a href="" class="clients-item-content__btn btn-4">Хочу быть здесь</a>
+                </div>
+            </div>
+            <div class="clients-item">
+                <div class="clients-item__bg ibg"><img src="<?= SITE_TEMPLATE_PATH ?>/img/clients/02.jpg" alt="" /></div>
+                <div class="clients-item-content">
+                    <div class="clients-item-content__title">«The blue firefly» Лунный камень в серебре</div>
+                    <div class="clients-item-content__text">
+                        <p>Получила сегодня свой кулон из лунного камня. Доставили домой курьером. Очень быстро,я даже не ожидала. До этого пришлось подождать, пока появятся такие камни и кулон будет сделан. Приглядела его в магазинчике давно, одела, как будто он у меня всегда был. Даже на ночь снимать не хочется. Камень очень красивый, переливается и голубым, и желтоватые отблески есть. Кулон сделан очень аккуратно. Захотелось теперь к нему сережечки в комплект. Огромное спасибо автору за доставленную радость.</p>
+                        <p>Зиновьева Наталья <br /> 25.06.2017</p>
+                    </div>
+                    <a href="" class="clients-item-content__btn btn-4">Хочу быть здесь</a>
+                </div>
+            </div>
+            <div class="clients-item">
+                <div class="clients-item__bg ibg"><img src="<?= SITE_TEMPLATE_PATH ?>/img/clients/03.jpg" alt="" /></div>
+                <div class="clients-item-content">
+                    <div class="clients-item-content__title">«The blue firefly» Лунный камень в серебре</div>
+                    <div class="clients-item-content__text">
+                        <p>Получила сегодня свой кулон из лунного камня. Доставили домой курьером. Очень быстро,я даже не ожидала. До этого пришлось подождать, пока появятся такие камни и кулон будет сделан. Приглядела его в магазинчике давно, одела, как будто он у меня всегда был. Даже на ночь снимать не хочется. Камень очень красивый, переливается и голубым, и желтоватые отблески есть. Кулон сделан очень аккуратно. Захотелось теперь к нему сережечки в комплект. Огромное спасибо автору за доставленную радость.</p>
+                        <p>Зиновьева Наталья <br /> 25.06.2017</p>
+                    </div>
+                    <a href="" class="clients-item-content__btn btn-4">Хочу быть здесь</a>
+                </div>
+            </div>
+            <div class="clients-item">
+                <div class="clients-item__bg ibg"><img src="<?= SITE_TEMPLATE_PATH ?>/img/clients/02.jpg" alt="" /></div>
+                <div class="clients-item-content">
+                    <div class="clients-item-content__title">«The blue firefly» Лунный камень в серебре</div>
+                    <div class="clients-item-content__text">
+                        <p>Получила сегодня свой кулон из лунного камня. Доставили домой курьером. Очень быстро,я даже не ожидала. До этого пришлось подождать, пока появятся такие камни и кулон будет сделан. Приглядела его в магазинчике давно, одела, как будто он у меня всегда был. Даже на ночь снимать не хочется. Камень очень красивый, переливается и голубым, и желтоватые отблески есть. Кулон сделан очень аккуратно. Захотелось теперь к нему сережечки в комплект. Огромное спасибо автору за доставленную радость.</p>
+                        <p>Зиновьева Наталья <br /> 25.06.2017</p>
+                    </div>
+                    <a href="" class="clients-item-content__btn btn-4">Хочу быть здесь</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="form">
+        <div class="form__title title">Подпишись на рассылку <br /> и узнай первым о новых украшениях!</div>
+        <form data-m="m_1" action="#" class="form-body hm">
+            <div class="form-body-row">
+                <div class="form-body-column">
+                    <input type="text" name="form[]" data-value="Ваше имя" class="input" />
+                </div>
+                <div class="form-body-column">
+                    <input type="text" name="form[]" data-value="Ваш email" class="input email req" />
+                </div>
+            </div>
+            <div class="form-body-check">
+                <div class="check">Я принимаю <a href="">условия конфиденциальности</a> <input type="checkbox" value="1" class="req" name="form[]" /></div>
+            </div>
+            <div class="form-body-button">
+                <button type="submit" class="form__btn btn-3">Подписаться</button>
+            </div>
+        </form>
+    </div>
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

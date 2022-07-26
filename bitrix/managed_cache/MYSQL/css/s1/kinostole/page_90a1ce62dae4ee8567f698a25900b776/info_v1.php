@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/kinostole/components/bitrix/news.list/top_movies/style.css" => "1649676591150",]; ?>

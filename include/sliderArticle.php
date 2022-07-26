@@ -1,0 +1,1 @@
+<img alt="04.2.png" src="/local/templates/kinostole/images/2.jpg" title="04.2.png">
